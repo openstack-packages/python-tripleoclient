@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_37665a52",
+        "filename": "python-tripleoclient.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1002548
+      },
+      "writtenOn": "2015-09-17T16:29:31Z",
+      "side": 1,
+      "message": "I don\u0027t think ${upstream_version} should be here, should it be %{version}-%{release}",
+      "revId": "0e0eda148ca6a10cc59909d654e737b0288a8c95",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
