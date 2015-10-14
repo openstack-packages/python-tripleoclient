@@ -42,6 +42,9 @@ rm -rf {test-,}requirements.txt
 %install
 %{__python2} setup.py install --skip-build --root %{buildroot}
 
+# Delete tests
+rm -fr %{buildroot}%{python_sitelib}/tripleoclient/tests
+
 %files
 %{python2_sitelib}/tripleoclient*
 %{python2_sitelib}/python_tripleoclient*
