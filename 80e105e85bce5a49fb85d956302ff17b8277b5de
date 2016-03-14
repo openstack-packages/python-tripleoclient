@@ -1,0 +1,8 @@
+Code-Review+1: Jon Schlueter <jschluet@redhat.com>
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Mon, 14 Mar 2016 19:51:06 +0100
+Reviewed-on: https://review.gerrithub.io/266116
+Project: openstack-packages/python-tripleoclient
+Branch: refs/heads/rpm-master
